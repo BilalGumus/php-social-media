@@ -17,13 +17,13 @@ Selçuk Sözlük -  PHP Social Media Application
 
 ## Project Description
 
-Selcuk Sözlük is a simple social media platform built using PHP, TailwindCSS and MySQL. It allows users to create and publish posts by categories and interact with other users.
+Selçuk Sözlük is a simple social media platform built using PHP, TailwindCSS and MySQL. It allows users to create and publish posts by categories and interact with other users.
 
 ## Features
 
 - User registration and authentication
-![Screenshot_7](https://github.com/BilalGumus/php-social-media/assets/57847805/d2d1a853-0f90-47a0-914c-28e51a98c154)
-![Screenshot_6](https://github.com/BilalGumus/php-social-media/assets/57847805/bab08d83-af2b-4f18-9c1a-b0a34c4b70a6)
+![SignIn](https://github.com/BilalGumus/php-social-media/assets/57847805/d2d1a853-0f90-47a0-914c-28e51a98c154)
+![SignUp](https://github.com/BilalGumus/php-social-media/assets/57847805/bab08d83-af2b-4f18-9c1a-b0a34c4b70a6)
 
 
 - Create regular & image posts by categories
@@ -31,8 +31,8 @@ Selcuk Sözlük is a simple social media platform built using PHP, TailwindCSS a
 - Comment and like on posts
 ![Post_Detail](https://github.com/BilalGumus/php-social-media/assets/57847805/2d9ea3d5-6f3a-422a-b9a6-1954d83e3b02)
 - User profile management
-![Screenshot_3](https://github.com/BilalGumus/php-social-media/assets/57847805/866f4b2d-ac45-4a8a-97f8-72f8363a56ca)
-![Screenshot_2](https://github.com/BilalGumus/php-social-media/assets/57847805/b102e8c6-e923-4993-a4b2-87a7154b9bdb)
+![Profile_Detail](https://github.com/BilalGumus/php-social-media/assets/57847805/866f4b2d-ac45-4a8a-97f8-72f8363a56ca)
+![Profile_Edit](https://github.com/BilalGumus/php-social-media/assets/57847805/b102e8c6-e923-4993-a4b2-87a7154b9bdb)
 
 ## Installation
 #### Requirements
